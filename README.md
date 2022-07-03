@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed mhiri</h1>
-<h3 align="center">A passionate Programmer from Tunisia</h3>
+<h3 align="center">A Programmer from Tunisia</h3>
 
 - 🌱 I’m currently learning **Python 3**
 
